@@ -24,7 +24,7 @@ if(nform < 18){
     Console.WriteLine($"{nome}, você esta no estado de sobrepeso");
 }else if(nform > 30.1 && nform < 40){
     Console.WriteLine($"{nome}, você esta no estado de obesidade");
-}else{
+}else if(nform > 40.1){
     Console.WriteLine($"{nome} Procure um médico, seu estado é grave");
 }
 
