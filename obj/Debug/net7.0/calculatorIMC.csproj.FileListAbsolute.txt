@@ -1,0 +1,15 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\C# - Cursos e projetos\calculatorIMC\bin\Debug\net7.0\calculatorIMC.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\C# - Cursos e projetos\calculatorIMC\bin\Debug\net7.0\calculatorIMC.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\C# - Cursos e projetos\calculatorIMC\bin\Debug\net7.0\calculatorIMC.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\C# - Cursos e projetos\calculatorIMC\bin\Debug\net7.0\calculatorIMC.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\C# - Cursos e projetos\calculatorIMC\bin\Debug\net7.0\calculatorIMC.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\C# - Cursos e projetos\calculatorIMC\obj\Debug\net7.0\calculatorIMC.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\C# - Cursos e projetos\calculatorIMC\obj\Debug\net7.0\calculatorIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\C# - Cursos e projetos\calculatorIMC\obj\Debug\net7.0\calculatorIMC.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\C# - Cursos e projetos\calculatorIMC\obj\Debug\net7.0\calculatorIMC.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\C# - Cursos e projetos\calculatorIMC\obj\Debug\net7.0\calculatorIMC.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\C# - Cursos e projetos\calculatorIMC\obj\Debug\net7.0\calculatorIMC.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\C# - Cursos e projetos\calculatorIMC\obj\Debug\net7.0\refint\calculatorIMC.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\C# - Cursos e projetos\calculatorIMC\obj\Debug\net7.0\calculatorIMC.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\C# - Cursos e projetos\calculatorIMC\obj\Debug\net7.0\calculatorIMC.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\C# - Cursos e projetos\calculatorIMC\obj\Debug\net7.0\ref\calculatorIMC.dll
